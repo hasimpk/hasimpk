@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasimpk
+- 👋 Hi, I’m Hasim P K
 - 👀 I’m interested in Design & Front-End
 - 📫 How to reach me hashimpk18@gmail.com
 
