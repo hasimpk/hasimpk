@@ -3,4 +3,4 @@
 
 - 👨‍💻 Personal Website [hasim.me](https://hasim.me)
 
-- 📫 How to reach me **hashimpk18@gmail.com**
+- 📫 How to reach me **hello@hasim.me**
